@@ -17,3 +17,6 @@ After all the data engineering, I ran a data analysis on my code using the langu
 After all the data I gathered and the statistical analysis tests I ran, I concluded that there was strong statistical significance between tall players and high likelihood of knee injuries.
 
 ![test](/P-value_hypothesis_testing_graph.png)
+
+
+#### references
