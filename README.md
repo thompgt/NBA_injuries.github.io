@@ -8,7 +8,7 @@ After selecting my topic, I searched for datasets I would use from Kaggle to get
 
 [NBA Injuries Data Engineering] (https://www.kaggle.com/thomaspequegnot/nba-injuries-project)
 ## Analysis
-After all the data engineering, I ran a data analysis on my code using the language r as it is a strong language for statistical analysis. My mentor and online tutorials helped me with this part of the project since I had no experience coding in r prior to the project. The two statistical methods I conducted were a hypothesis test and a confidence interval. The hypothesis test showed statistical significance that there was in fact strong evidence to conclude that tall players are more prone to suffering knee injuries than short players while the confidence interval showed weak evidence that taller players are more likely to suffer a knee injury than shorter players.
+After all the data engineering, I ran a data analysis on my code using the language r as it is a strong language for statistical analysis. My mentor and online tutorials helped me with this part of the project since I had no experience coding in r prior to the project. The two statistical methods I conducted were a hypothesis test and a confidence interval. The hypothesis test and confidence interval showed statistical significance that there was in fact strong evidence to conclude that tall players are more prone to suffering knee injuries than short players.
 
 [NBA Injuries Hypothesis Test] (https://www.kaggle.com/thomaspequegnot/hypothesis-testing/edit/run/74061825)
 
