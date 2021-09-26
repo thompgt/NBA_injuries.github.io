@@ -10,10 +10,14 @@ The beginning of the project started out as brainstorming the topic of my resear
 ## Analysis
 
 ![test](/P-value_hypothesis_testing_graph.png)
+
+I took 10 years of player data and separated the players by height. The 75th percentile or higher would be classified as tall players. I generated the different scenarios in which the null distribution would be true in which tall players are equally likely to suffer knee injuries as the other players. In the context of our generated sampleset, the p-value indicates that taller players are more likely to suffer a knee injury.
+
 ![test](/Confidence_interval.png)
+
+
 ![test](/Hyp_test.png)
 
-After all the data engineering, I ran a data analysis on my code using the language r as it is a strong language for statistical analysis. My mentor and online tutorials helped me with this part of the project since I had no experience coding in r prior to the project. The two statistical methods I conducted were a hypothesis test and a confidence interval. The hypothesis test and confidence interval showed statistical significance that there was in fact strong evidence to conclude that tall players are more prone to suffering knee injuries than short players.
 
 [NBA Injuries Hypothesis Test] (https://www.kaggle.com/thomaspequegnot/hypothesis-testing) <-- full details can be found in my kaggle notebook
 
