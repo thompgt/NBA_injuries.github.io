@@ -5,7 +5,7 @@ In a 17 year overview, it was concluded there was no correlation between injury 
 ![test](/knee_injury_example.png)
 
 ## Brainstorming
-The beginning of the project started out as brainstorming the topic of my research project as I knew I wanted to research something related to NBA injuries but was unsure what exactly. I had to come up with all the potential quantitative and qualitative variables that I could possibly do research on. My initial list of variables was approximately 30 possible projects but I gradually narrowed down the topic choice based on what interested me and if there is enough data that exists to perform the research. 
+The beginning of the project started out as brainstorming the topic of my research project as I knew I wanted to research something related to NBA injuries and height after reading the overview but was unsure what exactly. I had to come up with all the potential quantitative and qualitative variables that I could possibly do research on. My initial list of variables was approximately 30 possible projects but I gradually narrowed down the topic choice based on what interested me and if there is enough data that exists to perform the research. 
 ## Data Engineering
 ![test](/Data_engineering.png)
 
@@ -14,7 +14,7 @@ The beginning of the project started out as brainstorming the topic of my resear
 
 ![test](/P-value_hypothesis_testing_graph.png)
 
-I took 10 years of player data and separated the players by height. The 75th percentile or higher would be classified as tall players. I generated the different scenarios in which the null distribution would be true in which tall players are equally likely to suffer knee injuries as the other players. In the context of our generated sampleset, the p-value indicates that taller players are more likely to suffer a knee injury. 
+I took 10 years of player data and separated the players by height. The 75th percentile or higher would be classified as tall players. I generated the different scenarios in which the null distribution would be true in which tall players are equally likely to suffer knee injuries as the other players. In the context of our generated sampleset, the p-value indicates that taller players are more likely to suffer a knee injury since the p-value (probability of rejecting/accepting the null hypothesis based off observed data) is low (.0685). This means there is a 6% chance the observed data matches the model.
 
 ![test](/Confidence_interval.png)
 
