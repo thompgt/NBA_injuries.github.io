@@ -10,6 +10,8 @@ The beginning of the project started out as brainstorming the topic of my resear
 ## Analysis
 
 ![test](/P-value_hypothesis_testing_graph.png)
+![test](/Confidence_interval.png)
+![test](/Hyp_test.png)
 
 After all the data engineering, I ran a data analysis on my code using the language r as it is a strong language for statistical analysis. My mentor and online tutorials helped me with this part of the project since I had no experience coding in r prior to the project. The two statistical methods I conducted were a hypothesis test and a confidence interval. The hypothesis test and confidence interval showed statistical significance that there was in fact strong evidence to conclude that tall players are more prone to suffering knee injuries than short players.
 
