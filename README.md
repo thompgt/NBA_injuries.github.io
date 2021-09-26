@@ -21,3 +21,6 @@ After all the data I gathered and the statistical analysis tests I ran, I conclu
 
 
 #### references
+- [modern dive tutorial](https://moderndive.com/)
+- [NBA injuries dataset] (https://www.kaggle.com/ghopkins/nba-injuries-2010-2018)
+- [NBA players dataset] (https://www.kaggle.com/justinas/nba-players-data)
