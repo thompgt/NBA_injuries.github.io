@@ -13,9 +13,9 @@ The beginning of the project started out as brainstorming the topic of my resear
 
 After all the data engineering, I ran a data analysis on my code using the language r as it is a strong language for statistical analysis. My mentor and online tutorials helped me with this part of the project since I had no experience coding in r prior to the project. The two statistical methods I conducted were a hypothesis test and a confidence interval. The hypothesis test and confidence interval showed statistical significance that there was in fact strong evidence to conclude that tall players are more prone to suffering knee injuries than short players.
 
-[NBA Injuries Hypothesis Test] (https://www.kaggle.com/thomaspequegnot/hypothesis-testing/edit/run/74061825)   <-- full details can be found in my kaggle notebook
+[NBA Injuries Hypothesis Test] (https://www.kaggle.com/thomaspequegnot/hypothesis-testing) <-- full details can be found in my kaggle notebook
 
-[NBA Injuries Confidence interval] (https://www.kaggle.com/thomaspequegnot/confidence-interval/edit/run/74063575)    <-- full details can be found in my kaggle notebook
+[NBA Injuries Confidence interval] (https://www.kaggle.com/thomaspequegnot/confidence-interval) <-- full details can be found in my kaggle notebook
 ## Conclusion
 After all the data I gathered and the statistical analysis tests I ran, I concluded that there was strong statistical significance between tall players and high likelihood of knee injuries.
 
