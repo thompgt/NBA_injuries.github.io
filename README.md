@@ -16,6 +16,7 @@ I took 10 years of player data and separated the players by height. The 75th per
 ![test](/Confidence_interval.png)
 
 
+
 ![test](/Hyp_test.png)
 
 
@@ -33,3 +34,7 @@ Although the 17 year overview found no correlation between injury rate and demog
 - [NBA injuries dataset] (https://www.kaggle.com/ghopkins/nba-injuries-2010-2018)
 - [NBA players dataset] (https://www.kaggle.com/justinas/nba-players-data)
 - [17 year overview] (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3445097/#:~:text=The%20incidence%20of%20injury%20was,NBA%20experience%20(Figure%201)
+- [p-values] (https://www.amstat.org/asa/files/pdfs/p-valuestatement.pdf)
+- [Data types] (https://www.mayo.edu/research/documents/data-types/doc-20408956#:~:text=Examples%20of%20quantitative%20characteristics%20are,are%20also%20called%20categorical%20variables)
+- [variables] (https://dpl6hyzg28thp.cloudfront.net/media/Springer_-_Journal_Sports_Medicine._Vol._40_Issue_7_2010.pdf)
+- 
