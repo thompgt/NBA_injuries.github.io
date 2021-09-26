@@ -1,6 +1,6 @@
 # Injuries of professional NBA players
 ## Background
-In the summer heading into my senior year of high school, I researched the correlation between height and knee injuries for NBA players between 2010-current day. I did this under the mentorship of a college student who has experience in the field of data science. The reason I chose a project relating to NBA injuries is watching sports is one of my passions and I was curious to see why taller players are the ones that are getting carried off the court/field in sporting events. The one injury that sparked this curiosity was Kristaps Porzingis' knee injury (torn ACL) because my initial thoughts were that he got hurt due to him being 7'3". This study can be used to determine the longevity of future NBA players, future negotiations between players, or likelihood of getting injured again. 
+In a 17 year overview, it was concluded there was no correlation between injury rate and any demographics between NBA players. Despite this, my instinct told me this was wrong because I believed taller players are more likely to be injured. The one injury that sparked this belief was Kristaps Porzingis' knee injury (torn ACL) because my initial thoughts were that he got hurt due to him being 7'3". This study can be used to determine the longevity of future NBA players, future negotiations between players, or likelihood of getting injured again. 
 ## Brainstorming
 The beginning of the project started out as brainstorming the topic of my research project as I knew I wanted to research something related to NBA injuries but was unsure what exactly. I had to come up with all the potential quantitative and qualitative variables that I could possibly do research on. My initial list of variables was approximately 30 possible projects but I gradually narrowed down the topic choice based on what interested me and if there is enough data that exists to perform the research. 
 ## Data Engineering
@@ -19,7 +19,7 @@ After all the data engineering, I ran a data analysis on my code using the langu
 
 [NBA Injuries Confidence interval] (https://www.kaggle.com/thomaspequegnot/confidence-interval) <-- full details can be found in my kaggle notebook
 ## Conclusion
-After all the data I gathered and the statistical analysis tests I ran, I concluded that there was strong statistical significance between tall players and high likelihood of knee injuries.
+Although the 17 year overview found no correlation between injury rate and demographics of NBA players, my analysis concluded there was in fact a correlation between height and likelihood of suffering a knee injury.
 
 
 
@@ -28,3 +28,4 @@ After all the data I gathered and the statistical analysis tests I ran, I conclu
 - [modern dive tutorial](https://moderndive.com/)
 - [NBA injuries dataset] (https://www.kaggle.com/ghopkins/nba-injuries-2010-2018)
 - [NBA players dataset] (https://www.kaggle.com/justinas/nba-players-data)
+- [17 year overview] (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3445097/#:~:text=The%20incidence%20of%20injury%20was,NBA%20experience%20(Figure%201)
