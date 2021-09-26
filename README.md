@@ -1,6 +1,9 @@
 # Injuries of professional NBA players
 ## Background
 In a 17 year overview, it was concluded there was no correlation between injury rate and any demographics between NBA players. Despite this, my instinct told me this was wrong because I believed taller players are more likely to be injured. The one injury that sparked this belief was Kristaps Porzingis' knee injury (torn ACL) because my initial thoughts were that he got hurt due to him being 7'3". My instinct motivated me to research and perform an analysis to see if tall players specifically are more likely to suffer knee injuries than other players. The analysis I conducted can be used to determine the longevity of future NBA players, future negotiations between players, or likelihood of getting injured again. 
+
+![test](/knee_injury_example.png)
+
 ## Brainstorming
 The beginning of the project started out as brainstorming the topic of my research project as I knew I wanted to research something related to NBA injuries but was unsure what exactly. I had to come up with all the potential quantitative and qualitative variables that I could possibly do research on. My initial list of variables was approximately 30 possible projects but I gradually narrowed down the topic choice based on what interested me and if there is enough data that exists to perform the research. 
 ## Data Engineering
