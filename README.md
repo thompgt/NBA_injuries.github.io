@@ -24,11 +24,21 @@ A 95% confidence interval represents the middle 95% of the data. Even though the
 
 The graphic above indicates that a higher proportion of taller players that suffer injuries are more likely to suffer a knee injury than other players.
 
+
+
+
+
 [NBA Injuries Hypothesis Test] (https://www.kaggle.com/thomaspequegnot/hypothesis-testing) <-- full details can be found in my kaggle notebook
 
 [NBA Injuries Confidence interval] (https://www.kaggle.com/thomaspequegnot/confidence-interval) <-- full details can be found in my kaggle notebook
 ## Conclusion
 Although the 17 year overview found no correlation between injury rate and demographics of NBA players, my analysis concluded there was in fact a correlation between height and likelihood of suffering a knee injury.
+
+
+
+
+
+
 
 
 
