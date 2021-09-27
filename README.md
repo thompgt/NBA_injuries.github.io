@@ -14,14 +14,15 @@ The beginning of the project started out as brainstorming the topic of my resear
 
 ![test](/P-value_hypothesis_testing_graph.png)
 
-I took 10 years of player data and separated the players by height. The 75th percentile or higher would be classified as tall players. I generated the different scenarios in which the null distribution would be true in which tall players are equally likely to suffer knee injuries as the other players. In the context of our generated sampleset, the p-value indicates that taller players are more likely to suffer a knee injury since the p-value (probability of rejecting/accepting the null hypothesis based off observed data) is low (.0685). This means there is a 6% chance the observed data matches the model.
+I took 10 years of player data and separated the players by height and selected the 75th percentile or higher would be classified as tall players. I generated the different scenarios in which the null distribution would be true in which tall players are equally likely to suffer knee injuries as the other players. In the context of our generated sampleset, the p-value indicates that taller players are more likely to suffer a knee injury since the p-value (probability of rejecting/accepting the null hypothesis based off observed data) is low (.0685) which means there is a 6% chance the observed data matches the model.
 
 ![test](/Confidence_interval.png)
 
-
+A 95% confidence interval represents the middle 95% of the data. Even though the observed proportion falls within the confidence interval, since the proportion is towards the outside of the data, it is weak evidence to conlclude that taller players are more likely to suffer a knee injury than other players.
 
 ![test](/Hyp_test.png)
 
+The graphic above indicates that a higher proportion of taller players that suffer injuries are more likely to suffer a knee injury than other players.
 
 [NBA Injuries Hypothesis Test] (https://www.kaggle.com/thomaspequegnot/hypothesis-testing) <-- full details can be found in my kaggle notebook
 
