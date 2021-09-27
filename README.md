@@ -14,7 +14,7 @@ The beginning of the project started out as brainstorming the topic of my resear
 
 ![test](/P-value_hypothesis_testing_graph.png)
 
-I took 10 years of player data and separated the players by height and selected the 75th percentile or higher would be classified as tall players. I generated the different scenarios in which the null distribution would be true in which tall players are equally likely to suffer knee injuries as the other players. In the context of our generated sampleset, the p-value indicates that taller players are more likely to suffer a knee injury since the p-value (probability of rejecting/accepting the null hypothesis based off observed data) is low (.0685) which means there is a 6% chance the observed data matches the model.
+I took 10 years of player data and separated the players by height. I then selected the 75th percentile or higher would be classified as tall players. I generated the different scenarios in which the null distribution would be true in which tall players are equally likely to suffer knee injuries as the other players. In the context of our generated sampleset, the p-value indicates that taller players are more likely to suffer a knee injury since the p-value (probability of rejecting/accepting the null hypothesis based off observed data) is low (.0685). This means there is a 6% chance the observed data matches the model.
 
 ![test](/Confidence_interval.png)
 
