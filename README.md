@@ -32,7 +32,7 @@ The graphic above indicates that a higher proportion of taller players that suff
 
 [NBA Injuries Confidence interval] (https://www.kaggle.com/thomaspequegnot/confidence-interval) <-- full details can be found in my kaggle notebook
 ## Conclusion
-Although the 17 year overview found no correlation between injury rate and demographics of NBA players, my analysis concluded there was in fact a correlation between height and likelihood of suffering a knee injury.
+Although the 17 year overview found no correlation between injury rate and demographics of NBA players, my analysis concluded there was in fact a correlation between height and likelihood of suffering a knee injury within my model. Given this model, I would recommend more investigation to determine if taller players are more likely to suffer knee injuries in the real world. Even though there is no distinction with the demographics and injuries according to the 17 year overview, I would argue that specific injuries target specific players. This model is useful as NBA teams should think twice about negotiating long term with players that have suffered these specific injuries since if they fall within the targeted players, they could be labeled as injury prone. In the end, these players could end up harming the team rather than help them due to them being sidelined for a large portion of the season.
 
 
 
